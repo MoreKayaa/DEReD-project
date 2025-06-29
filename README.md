@@ -703,6 +703,4 @@ If you encounter issues:
 
 ---
 
-**🎉 Congratulations!** You now have a complete guide to reproduce the DEReD paper with full evaluation capabilities. The implementation provides both depth maps and AIF images with comprehensive training/testing analysis and practice tracking.
-
 **Happy depth estimation!** 🚀
